@@ -9,3 +9,4 @@ elif a == "bye":
   sayBye()
 else:
   print("Invalid function. Try again")
+#copy this code
